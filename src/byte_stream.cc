@@ -53,4 +53,3 @@ uint64_t Reader::bytes_popped() const
 {
   return {}; // Your code here.
 }
-
